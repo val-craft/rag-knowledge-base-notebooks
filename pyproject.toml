@@ -1,0 +1,9 @@
+[project]
+name = "rag-knowledge-base-notebooks"
+version = "0.1.0"
+description = "Retrieval-Augmented Generation (RAG) Knowledge Base - Notebooks"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyterlab>=4.4.9",
+]
